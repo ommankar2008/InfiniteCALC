@@ -60,16 +60,16 @@ Contributions are welcome! If you have ideas for new features, bug fixes, or imp
   5. Open a Pull Request
 If you find any issues, please open an issue in the Issues tab.
 
-###License
+### License
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-###Acknowledgements
+### Acknowledgements
 
   Inspired by the desire to create a simple and extendable calculator in C
   Thanks to all contributors and users!
 
-###Contact
+### Contact
   For questions or suggestions, feel free to open an issue or contact the maintainer at ommankar2023@gmail.com
   Let me know if you want to include anything else—such as a Frequently Asked Questions section, a roadmap, or more advanced usage!
